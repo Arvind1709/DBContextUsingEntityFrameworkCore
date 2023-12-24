@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbOperationWithEntityFrameWork", "DbOperationWithEntityFrameWork.csproj", "{97CB24F6-BB77-4F89-81FE-37E049C1BAF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CB24F6-BB77-4F89-81FE-37E049C1BAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CB24F6-BB77-4F89-81FE-37E049C1BAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CB24F6-BB77-4F89-81FE-37E049C1BAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CB24F6-BB77-4F89-81FE-37E049C1BAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2CD26A-2605-4FB7-AEB7-F590A63A485C}
+	EndGlobalSection
+EndGlobal
